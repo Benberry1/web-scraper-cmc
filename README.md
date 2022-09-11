@@ -156,3 +156,10 @@ A fun project that scrapes the top 10 cryptocurrency data from [Coin Market Cap]
    ```
    npm start
    ```
+5. In your browser type:
+
+   localhost:5001/api/crypto-price-feed
+
+I use JSON formatter to see json data easier in your browser:
+
+[JSON Formatter Chrome Extension](https://chrome.google.com/webstore/detail/json-formatter/mhimpmpmffogbmmkmajibklelopddmjf)
